@@ -1,0 +1,25 @@
+.home{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+}
+
+.home__links{
+    width: 70%;
+    margin-top: 30px;
+}
+
+@media(max-width: 575px){
+    .home{
+        width: 100%;
+        padding: 0px;
+    }
+
+    .home__links{
+        width: 95%;
+        margin-top: 30px;
+    }
+}
