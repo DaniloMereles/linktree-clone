@@ -33,43 +33,5 @@
             "color":"color3",
             "description": "My linkedin profile"
         }
-    ],
-    "projects": [
-        {
-            "name": "Rick-And-Morty-App-Js",
-            "description": "This project was developed with Vanilla Javascript, it is a website that shows information about the characters of the RICK AND MORTY series, the data is brought from an external api.",
-            "live-demo": "https://danilomereles.github.io/rickAndMorty-Api/",
-            "repository": "https://github.com/DaniloMereles/rickAndMorty-Api"  
-        },
-        {
-            "name": "Rick-And-Morty-App-React",
-            "description": "This project was developed with React.js, it is a website that shows information about the characters of the RICK AND MORTY series, the data is brought from an external api.",
-            "live-demo": "https://rick-and-morty-app-reactjs.netlify.app/",
-            "repository": "https://github.com/DaniloMereles/Rick-And-Morty-App-React"  
-        },
-        {
-            "name": "Windbnd",
-            "description": "This project was developed with React.js, Styled Components, and CONTEXT API was used as a state manager, it is a 'clone' of the AIRBNB website.",
-            "live-demo": "https://windbnd.netlify.app/",
-            "repository": "https://github.com/DaniloMereles/Windbnd"  
-        },
-        {
-            "name": "Interior Consultant",
-            "description": "It is a (fake) website for a full service residential and commercial design and staging company offering professional organization and green services.",
-            "live-demo": "https://danilomereles.github.io/interior-consultant/",
-            "repository": "https://github.com/DaniloMereles/interior-consultant"  
-        },
-        {
-            "name": "My Galery",
-            "description": "It is a gallery of images inspired by pinterest",
-            "live-demo": "https://my-galery.netlify.app/",
-            "repository": "https://github.com/DaniloMereles/my-galery"  
-        },
-        {
-            "name": "Edie-Homepage",
-            "description": "It is a website (fake) for a company that offers software development services",
-            "live-demo": "https://my-galery.netlify.app/",
-            "repository": "https://github.com/DaniloMereles/my-galery"  
-        }
     ]
 }
